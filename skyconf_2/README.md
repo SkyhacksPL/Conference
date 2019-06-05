@@ -27,6 +27,6 @@ Artificial Intelligence, Machine Learning, Deep Learning, Statistics, and Data S
 - Nikolay Pavlenko, "Data Scientist - Step by Step"
 
 **More info about this and next meetups like this?**
-https://www.meetup.com/pl-PL/skyevents/events/258321757/
-https://www.meetup.com/pl-PL/skyevents/
-https://www.facebook.com/skyhacks.poland/ 
+- https://www.meetup.com/pl-PL/skyevents/events/258321757/
+- https://www.meetup.com/pl-PL/skyevents/
+- https://www.facebook.com/skyhacks.poland/ 
