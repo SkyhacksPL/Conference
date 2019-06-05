@@ -1,4 +1,4 @@
-## Presentations from the second edition of the Skyconf conference, which took place on May 21 in Gliwice.
+## Presentations from the second edition of the skyconf conference, which took place on May 21 in Gliwice.
 
 **2 skyconf – Silesian Artificial Intelligence was an event organized by**
  - skygate  
